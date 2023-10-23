@@ -77,4 +77,5 @@ Create BPMN 2.0 objects for Powerpoint presentation using VBA
         Call NewConnector(m_slide, m_startcon + 18, "0, 10, 2, 3, 4, 0.5, 0.5", "", True, dblSizeFactor, "-1,1")
     End Sub
 
-![sample image](https://github.com/leonardo270570/bpmn-powerpoint/assets/488127/88bd592f-d4fc-4ba4-9ce4-ed1e0047725e)
+![sample image](https://github.com/leonardo270570/bpmn-powerpoint/assets/488127/122cdd65-9c70-4c8f-b795-c5e588b0f91d)
+
