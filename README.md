@@ -1,4 +1,4 @@
-# bpmn-powerpoint
+# BPMN 2.0 Powerpoint
 Create BPMN 2.0 objects for Powerpoint presentation using VBA
 
     Public Sub BusinessProcessExample1()
